@@ -5,6 +5,8 @@ To see the website visit https://github.com/Sandip4083/Kids-_Learning_Portal
 # Kids' Learning Portal 🎓🧒
 
 An interactive and fun web-based learning portal designed for children to explore educational games, science concepts, math activities, and stories — all in one place!
+![image](https://github.com/user-attachments/assets/034d08de-a1ee-4026-805b-1bc83675d65c)
+
 
 ## 🚀 Features
 
