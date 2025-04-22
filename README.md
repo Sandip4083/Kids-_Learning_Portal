@@ -22,15 +22,19 @@ An interactive and fun web-based learning portal designed for children to explor
   - Arithmetic practice
   - Pattern recognition
   - Puzzle solving
+![image](https://github.com/user-attachments/assets/b4aadf00-cb29-4020-ac95-91783d8eb5f2)
 
 - 🔬 **Science Corner**  
   - Concepts like water cycle, volcanoes, planets, human body
+![image](https://github.com/user-attachments/assets/cb27e512-ffba-4d79-a560-e4812b0c36da)
 
 - 📚 **Story Time**  
   - Aesop’s fables like *The Fox and the Grapes*, *The Lion and the Mouse*, and more — with illustrations!
+![image](https://github.com/user-attachments/assets/f169a191-ada3-4a87-bdde-e4042c2cf748)
 
 - 🎨 **Coloring Game**  
   - Engage creativity with a basic interactive coloring tool.
+![image](https://github.com/user-attachments/assets/3df3a6f7-8378-40a6-aaf2-39efd15066d7)
 
 ## 💻 Technologies Used
 
